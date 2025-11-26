@@ -81,6 +81,5 @@ disp("✅ Waveforms plotted successfully. Close the graph window manually to fin
 <img width="760" height="600" alt="515656733-22852e46-d0ce-4572-a84e-c1b77aae4ce4" src="https://github.com/user-attachments/assets/f831490f-e4df-4ac9-a4c0-db25220e6dc3" />
 <img width="762" height="600" alt="515656845-59b3d873-d021-44ae-9ad6-ff9bc9637998" src="https://github.com/user-attachments/assets/4e07e225-f970-4d9d-9c0b-ba782ebc16b4" />
 
-
 ## RESULT: 
 Thus the speech recognition using SCILAB was performed and verified.
